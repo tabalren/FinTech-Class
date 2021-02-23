@@ -1,2 +1,2 @@
-# FinTech-Class
-Add text for assignment here
+# Forecasting the Value of the Japenese Yen vs USD  
+### Time Series Forecasting
