@@ -3,7 +3,7 @@
 
 #### Return Forecasting: Initial Time-Series Plotting
 
-![alt text]
+![alt text](timeseriesplot.png)
 
 ##### Based on the graph, it appears there is a general trend upward and there may be some seasonality over a period of 16 years (1996 to 2012). 
 
