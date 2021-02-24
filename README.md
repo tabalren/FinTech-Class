@@ -1,4 +1,4 @@
-# Forecasting the Value of the Japenese Yen vs USD  
+# Forecasting the Value of the Japanese Yen vs USD  
 #### In this notebook we will load historical Dollar-Yen exchange rate futures data and apply time series analysis and modeling to determine whether there is any predictable behaviour. Refers to the .ipynb file for detailed code. The below will showcase the visualizations, plots and overall conclusions. 
 
 #### Return Forecasting: Initial Time-Series Plotting
