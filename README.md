@@ -1,11 +1,11 @@
 # Forecasting the Value of the Japanese Yen vs USD  
-#### In this notebook we will load historical Dollar-Yen exchange rate futures data and apply time series analysis and modeling to determine whether there is any predictable behaviour. Refers to the .ipynb file for detailed code. The below will showcase the visualizations, plots and overall conclusions. 
+#### In this notebook we will load historical Dollar-Yen exchange rate futures data and apply time series analysis and modeling to determine whether there is any predictable behaviour. Refer to the .ipynb file for detailed code. The below will showcase the visualizations, plots and overall conclusions. 
 
 #### Return Forecasting: Initial Time-Series Plotting
 
 ![](images/timeseriesplot.png)
 
-##### Based on the graph, it appears there is a general trend upward and there may be some seasonality over a period of 16 years (1996 to 2012). 
+##### Based on the above plot, it appears there is a general trend upward and there may be some seasonality over a period of 16 years (1996 to 2012). 
 
 ### Decomposition Using Hodrick-Prescott Filter 
 #### We will now decompose the settle price into a trend and noise. 
