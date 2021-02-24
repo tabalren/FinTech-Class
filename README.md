@@ -29,11 +29,10 @@
 
 ![](images/arima.jpeg)
 
+![](images/5dayfuturesprice.png)
+
 #### Based on the ARIMA model summary results, we have a p-value = 0.687, which is >0.05 indicating that this model is not a good fit. 
 
-#### Now we will look at a 5-Day Futures Price forecast below. 
-
-![](images/5dayfuturesprice.png)
 
 ### Volatility Forecasting with GARCH 
 #### Now we will forecast the near-term volatility of Japenese Yen futures returns which can help us to predict volatility for trading in derivatives or to quantity our maximum loss. Creating a GARCH model, we will determine if the model is a good fit for the data and plot the 5-day forecast of the volatility.
@@ -64,7 +63,7 @@
 
 ![](images/RMSE2.jpeg) 
 
-![](images/RMSE.jpeg)
+![](images/RMSE.png)
 
 ### Conclusions
 #### The model performs better with out-of-sample data (training data) because it has a RMSE value of .415 as opposed to the RMSE of .596 for the in-sample data.
