@@ -63,7 +63,7 @@
 
 ![](images/RMSE.jpeg)
 
-![](images/RMSEout.jpeg)
+![](images/RMSEOut.jpeg)
 
 ### Conclusions
 #### The model performs better with out-of-sample data (training data) because it has a RMSE value of .415 as opposed to the RMSE of .596 for the in-sample data.
