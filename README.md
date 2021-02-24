@@ -19,6 +19,9 @@
 
 ![](images/armamodel.jpeg)
 
+![](images/5dayforecast1.png)
+
+
 #### Based on the model summary results, we have a p-value = 0.811, which is >0.05 indicating that this model is not a good fit. 
 
 ### Forecasting the Settle Price using an ARIMA Model
@@ -37,11 +40,9 @@
 
 ![](images/GARCH.jpeg)
 
-#### Based on the GARCH model summary results, we have a p-value <0.05 indicating that this model is a good fit. 
-
-#### Now we will look at a plot of the 5-Day forecast below: 
-
 ![](images/5dayforecast2.png)
+
+#### Based on the GARCH model summary results, we have a p-value <0.05 indicating that this model is a good fit. 
 
 ### Conclusions
 #### 1. Based on the above time series analyses, I would not buy yen now. From the model output results for both the ARMA and the ARIMA models,  their p-values are greater than 0.05 therefore, the coefficient for the autoregressive term is not statistically significant and these models do not appear to be a good fit for our data. 
