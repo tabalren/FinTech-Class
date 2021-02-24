@@ -54,7 +54,7 @@
 
 ## Linear Regression Model - Training Data 
 
-#### Using the returns data, lagged returns data and train/test split we can look at the plot below for the first 20 predictions vs true values: 
+#### Using the returns data, lagged returns data and train/test split we can look at the plot below for the first 20 predicted returns vs true returns to evaluate our model: 
 
 ![](images/predictions.jpeg)
 
