@@ -58,6 +58,13 @@
 
 ![](images/predictions.jpeg)
 
-### Out-of-Sample Performance
-#### Evaluate the model using "out-of-sample" data (X_test and y_test)
+### In-Sample vs Out-of-Sample Model Performance Evaluation 
+#### In order to evaluate models using in-sample data (X_train and y_train) vs out-of-sample data (X_test and y_test) a calculation of their mean squared errors was computed. Their results are:
+
+![](images/RMSE2.jpeg) 
+
+![](images/RMSE.jpeg)
+
+### Conclusions
+#### The model performs better with out-of-sample data (training data) because it has a RMSE value of .415 as opposed to the RMSE of .596 for the in-sample data.
 
