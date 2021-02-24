@@ -3,14 +3,16 @@
 
 #### Return Forecasting: Initial Time-Series Plotting
 
-![alt text](timeseriesplot.png)
+![](images/timeseriesplot.png)
 
 ##### Based on the graph, it appears there is a general trend upward and there may be some seasonality over a period of 16 years (1996 to 2012). 
 
 ### Decomposition Using Hodrick-Prescott Filter 
 #### We will now decompose the settle price into a trend and noise. 
 
+![](images/settlevstrend.png)
 
+![](images/futuresnoise.png)
 
 ### Forecasting Returns using an ARMA Model 
 ####  Using futures Settle Returns we will now estimate an ARMA model, determine if the model is a good fit for the returns data and plot the 5-day forecast.
